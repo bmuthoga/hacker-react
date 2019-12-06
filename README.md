@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hacker News
+This is a bare bones React application that consumes the Hacker News API
+
+Below is a preview of how it looks:
+
+<img src="https://i.ibb.co/mHYWWTx/hacker-news.gif" width="300" height="200" />
+
+A more UI friendly app will be built later on using [Next.js](https://nextjs.org/) :D
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
