@@ -1,6 +1,8 @@
 # Hacker News
 This is a bare bones React application that consumes the Hacker News API
 
+A deployed version / online editor to play around with the codebase can be found [here](https://codesandbox.io/s/github/bmuthoga/hacker-react)
+
 Below is a preview of how it looks:
 
 <img src="https://i.ibb.co/mHYWWTx/hacker-news.gif" width="300" height="200" />
